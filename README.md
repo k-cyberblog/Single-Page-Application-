@@ -1,1 +1,1 @@
-# Single-Page-Application-
+A Single Page Application (SPA) is a type of web application that loads a single HTML page and dynamically updates its content as the user interacts with it, without reloading the entire page. It provides a smooth and fast user experience similar to a desktop app. SPAs use technologies like HTML, CSS, JavaScript, and frameworks such as React, Angular, or Vue.js to manage the front-end, while APIs handle data communication with the backend.
